@@ -38,7 +38,7 @@ To make the requirements measurable and testable (aligned with IEEE standards):
 
 - **Accuracy Thresholds**:  
   - ≥ **90% detection rate** in normal conditions  
-  - ≥ **80% detection rate** in fog or extreme weather  
+  - ≥ **80% detection rate** in extreme weather  
 
 - **Safety Considerations**:  
   - **No false negatives** for severe potholes  
