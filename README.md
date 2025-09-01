@@ -5,7 +5,7 @@
 
 # Real-time Autonomous Safety Detector  – User Story Backlog
 
-This document outlines the user stories, priorities, and acceptance criteria for the Road Hazard Detection System, covering pothole and speed bump detection under various conditions.
+This document outlines the user stories, priorities, and acceptance criteria for the  Real-time Autonomous Safety Detector, covering pothole and speed bump detection under various conditions.
 
 ---
 
