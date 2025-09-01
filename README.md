@@ -3,7 +3,7 @@
 <img width="128" height="128" alt="RASD logo" src="https://github.com/user-attachments/assets/800964b9-0d0f-4456-bdcf-ef91d32eac2a" />
 
 
-# Road Hazard Detection System – User Story Backlog
+# Real-time Autonomous Safety Detector  – User Story Backlog
 
 This document outlines the user stories, priorities, and acceptance criteria for the Road Hazard Detection System, covering pothole and speed bump detection under various conditions.
 
