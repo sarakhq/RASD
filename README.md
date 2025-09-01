@@ -1,6 +1,6 @@
 # RASD
 
-  <img src="![Uploading image.png…]()" alt="RASD Logo" width="130"/>
+  <img src="C:\Users\Jujus account\Downloads\RASD logo.JPG" alt="RASD Logo" width="130"/>
 
 # Road Hazard Detection System – User Story Backlog
 
