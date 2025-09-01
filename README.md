@@ -1,5 +1,6 @@
 # RASD
-![Uploading image.png…]()
+
+  <img src="![Uploading image.png…]()" alt="RASD Logo" width="130"/>
 
 # Road Hazard Detection System – User Story Backlog
 
