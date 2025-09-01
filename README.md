@@ -1,6 +1,7 @@
 # RASD
 
-  <img src="C:\Users\Jujus account\Downloads\RASD logo.JPG" alt="RASD Logo" width="130"/>
+  <img src="blob:https://web.whatsapp.com/48abf55d-4fce-4ca2-946e-cd17728b8438" alt="RASD Logo" width="130"/>
+  blob:https://web.whatsapp.com/48abf55d-4fce-4ca2-946e-cd17728b8438
 
 # Road Hazard Detection System – User Story Backlog
 
