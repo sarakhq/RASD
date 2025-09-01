@@ -22,7 +22,7 @@ This document outlines the user stories, priorities, and acceptance criteria for
 
 ---
 
-## ⚙️ Non-Functional Requirements (NFR)
+##  Non-Functional Requirements (NFR)
 
 - **Reliability**: 24/7 operation, minimal downtime  
 - **Usability**: Alerts must be simple and non-distracting  
