@@ -1,7 +1,6 @@
 # RASD
 
-  <img src="<img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/800964b9-0d0f-4456-bdcf-ef91d32eac2a" />
-" alt="RASD Logo" width="130"/>
+<img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/800964b9-0d0f-4456-bdcf-ef91d32eac2a" />
 
 
 # Road Hazard Detection System – User Story Backlog
