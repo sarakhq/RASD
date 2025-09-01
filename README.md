@@ -1,6 +1,8 @@
 # RASD
 
-  <img src="https://web.whatsapp.com/48abf55d-4fce-4ca2-946e-cd17728b8438" alt="RASD Logo" width="130"/>
+  <img src="<img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/800964b9-0d0f-4456-bdcf-ef91d32eac2a" />
+" alt="RASD Logo" width="130"/>
+
 
 # Road Hazard Detection System – User Story Backlog
 
