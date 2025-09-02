@@ -1,6 +1,6 @@
 # RASD
 
-<img width="128" height="128" alt="RASD logo" src="https://github.com/sarakhq/RASD/blob/e7ac436b5dd2211a9bf6b1f8d665204c895684a8/RASD%20%20(3).png" />
+<img width="128" height="128" alt="RASD logo" src="https://github.com/sarakhq/RASD/blob/e7ac436b5dd2211a9bf6b1f8d665204c895684a8/RASD%20%20(4).png" />
 
 
 # Real-time Autonomous Safety Detector  – User Story Backlog
